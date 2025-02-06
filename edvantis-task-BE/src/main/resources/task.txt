@@ -1,0 +1,38 @@
+Assignment: Emergency Call Management System
+
+Objective: Develop a full stack application to manage emergency calls, with a strong emphasis on backend development.
+The backend should be built using Spring Boot, Hibernate, and a database of your choice. The frontend should be a reactive application built with React and TypeScript.
+
+Requirements:
+Backend:
+Spring Boot Application:
+- Create a Spring Boot application with RESTful APIs.
+- Use Hibernate for ORM.
+- Implement CRUD operations for managing emergency call data.
+- Ensure proper error handling and validation.
+
+Database:
+- Choose any relational database.
+- Design tables to store emergency call information.
+- Include the name of the caller, the position, the type of the incident (e.g., Fire, Crime, Accident), and the status of the emergency.
+
+APIs:
+- Create endpoints for adding, changing, and deleting data.
+- Implement pagination and filtering for retrieving emergency call data.
+
+Unit Tests:
+- Write unit tests for the logic of the application.
+- Ensure high test coverage for all critical components.
+
+Security:
+- Implement authentication and authorization mechanisms.
+- Ensure secure data transmission and storage.
+Frontend:
+React Application:
+Create a reactive React / TypeScript application.
+Implement a dashboard to display emergency call data.
+Provide forms to add, update, and delete emergency calls.
+Consume the backend services with React
+Deliverables:
+Source code for the backend and frontend applications.
+Documentation on how to set up and run the application.
